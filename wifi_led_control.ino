@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "Redmi";
-const char* password = "9791336627";
+const char* ssid = "SSID Name";
+const char* password = "Password of SSID";
 
 ESP8266WebServer server(80);
 
