@@ -49,7 +49,6 @@ This project allows you to **toggle 3 LEDs individually or all together** using 
    ```
    const char* ssid = "YourWiFiSSID";
    const char* password = "YourWiFiPassword";
-   
 4. Select **Board → NodeMCU 1.0 (ESP-12E)** and correct **COM port**.
 5. Upload code to ESP8266.
 6. Open **Serial Monitor** at **9600 baud**.
