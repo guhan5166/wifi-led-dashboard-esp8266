@@ -46,11 +46,10 @@ This project allows you to **toggle 3 LEDs individually or all together** using 
 1. Connect LEDs to ESP8266 pins D1, D2, D3 with 220Ω resistors.  
 2. Open `wifi_led_control.ino` in Arduino IDE.  
 3. Update your WiFi credentials in the code:
-   ```cpp
+   ```
    const char* ssid = "YourWiFiSSID";
    const char* password = "YourWiFiPassword";
-````
-
+   
 4. Select **Board → NodeMCU 1.0 (ESP-12E)** and correct **COM port**.
 5. Upload code to ESP8266.
 6. Open **Serial Monitor** at **9600 baud**.
@@ -85,5 +84,7 @@ This project allows you to **toggle 3 LEDs individually or all together** using 
 * Web UI Design (HTML + CSS)
 * Hardware-Software Integration
 * Mobile-friendly interface development
-
-```
+  
+---
+## 👤 Author
+Guhan R.
